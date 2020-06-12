@@ -1,0 +1,22 @@
+
+
+.primary-background{
+    background-color: #03a9f4;
+}
+
+.internal-Navbar{
+    background-color:#263238;
+}
+
+body{
+    margin-bottom:0px;
+    height: 30rem;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.footer-div{
+bottom: 0px;
+margin-top: auto;
+}
